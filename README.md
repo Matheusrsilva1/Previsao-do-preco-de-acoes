@@ -1,4 +1,4 @@
-# Stock Price Prediction with LSTM
+# Stock Price Prediction with LSTM (Previsão do preço das ações com LSTM)
 
 A professional-grade LSTM neural network implementation for stock price prediction using historical market data from Alpha Vantage API.
 
